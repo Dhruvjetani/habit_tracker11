@@ -1,9 +1,6 @@
 import '../ models/habit_completion_model.dart';
 import '../ models/habit_model.dart';
 import '../ models/user_profile_model.dart';
-import '../models/habit_completion_model.dart';
-import '../models/habit_model.dart';
-import '../models/user_profile_model.dart';
 import '../services/local_storage_service.dart';
 
 class HabitRepository {

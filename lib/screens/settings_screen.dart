@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import '../ providers/app_provider.dart';
 import '../core/constants/app_constants.dart';
 import '../core/utils/time_helper.dart';
-import '../providers/app_provider.dart';
 import '../data/services/notification_service.dart';
 
 class SettingsScreen extends StatelessWidget {

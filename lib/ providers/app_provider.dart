@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../data/ models/user_profile_model.dart';
-import '../data/models/user_profile_model.dart';
+
 import '../data/services/local_storage_service.dart';
 
 class AppProvider extends ChangeNotifier {

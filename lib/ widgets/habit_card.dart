@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../core/utils/color_helper.dart';
 import '../core/utils/icon_helper.dart';
 import '../data/ models/habit_model.dart';
-import '../data/models/habit_model.dart';
+
 
 class HabitCard extends StatelessWidget {
   final HabitModel habit;

@@ -5,8 +5,7 @@ import 'package:table_calendar/table_calendar.dart';
 import '../ providers/habit_provider.dart';
 import '../ widgets/empty_state_widget.dart';
 import '../core/utils/date_utils.dart';
-import '../providers/habit_provider.dart';
-import '../widgets/empty_state_widget.dart';
+
 
 class HistoryScreen extends StatefulWidget {
   static const String routeName = '/history';

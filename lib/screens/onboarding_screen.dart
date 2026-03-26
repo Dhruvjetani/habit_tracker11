@@ -5,7 +5,7 @@ import '../ providers/app_provider.dart';
 import '../core/constants/app_constants.dart';
 import '../core/utils/time_helper.dart';
 import '../core/utils/validators.dart';
-import '../providers/app_provider.dart';
+
 import 'home_screen.dart';
 
 class OnboardingScreen extends StatefulWidget {

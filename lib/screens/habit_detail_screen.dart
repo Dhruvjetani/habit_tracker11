@@ -6,8 +6,7 @@ import '../core/utils/color_helper.dart';
 import '../core/utils/date_utils.dart';
 import '../core/utils/icon_helper.dart';
 import '../data/ models/habit_model.dart';
-import '../data/models/habit_model.dart';
-import '../providers/habit_provider.dart';
+
 import 'edit_habit_screen.dart';
 
 class HabitDetailScreen extends StatelessWidget {

@@ -6,8 +6,7 @@ import 'package:uuid/uuid.dart';
 import '../core/utils/date_utils.dart';
 import '../data/ models/habit_completion_model.dart';
 import '../data/ models/habit_model.dart';
-import '../data/models/habit_completion_model.dart';
-import '../data/models/habit_model.dart';
+
 import '../data/services/local_storage_service.dart';
 import '../data/services/notification_service.dart';
 

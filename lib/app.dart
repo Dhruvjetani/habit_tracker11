@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 
 import ' providers/app_provider.dart';
 import 'core/theme/app_theme.dart';
-import 'providers/app_provider.dart';
+
 import 'screens/add_habit_screen.dart';
 import 'screens/edit_habit_screen.dart';
 import 'screens/habit_detail_screen.dart';
